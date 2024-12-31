@@ -1,0 +1,9 @@
+# Ignore all `.log` files
+*.log
+
+# Ignore the `node_modules` directory
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
