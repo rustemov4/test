@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9623d82-f1d5-4731-8239-37ecb235ee4c" name="Changes" comment="Revert &quot;w&quot;&#10;&#10;This reverts commit 4f1ed1fd">
+    <list default="true" id="f9623d82-f1d5-4731-8239-37ecb235ee4c" name="Changes" comment="some operation">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735676793746</updated>
-      <workItem from="1735676794213" duration="2774000" />
+      <workItem from="1735676794213" duration="3785000" />
     </task>
     <task id="LOCAL-00001" summary="w">
       <created>1735677535719</created>
@@ -55,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735677535719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="w">
+      <created>1735680218482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735680218482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some operation">
+      <created>1735680440509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735680440509</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="w" />
-    <option name="LAST_COMMIT_MESSAGE" value="w" />
+    <MESSAGE value="some operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="some operation" />
   </component>
 </project>
